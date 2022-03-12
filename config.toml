@@ -1,4 +1,4 @@
-baseURL = 'http://hugo.markdownsite.net/'
+baseURL = 'https://hugo-example.markdownsite.net/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'PaperMod'

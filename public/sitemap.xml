@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://hugo.markdownsite.net/</loc>
+    <loc>https://hugo-example.markdownsite.net/</loc>
     <lastmod>2022-02-02T12:18:42-08:00</lastmod>
   </url><url>
-    <loc>http://hugo.markdownsite.net/posts/</loc>
+    <loc>https://hugo-example.markdownsite.net/posts/</loc>
     <lastmod>2022-02-02T12:18:42-08:00</lastmod>
   </url><url>
-    <loc>http://hugo.markdownsite.net/posts/sorry-for-not-updating/</loc>
+    <loc>https://hugo-example.markdownsite.net/posts/sorry-for-not-updating/</loc>
     <lastmod>2022-02-02T12:18:42-08:00</lastmod>
   </url><url>
-    <loc>http://hugo.markdownsite.net/posts/my-first-post/</loc>
+    <loc>https://hugo-example.markdownsite.net/posts/my-first-post/</loc>
     <lastmod>2021-03-02T16:15:12-08:00</lastmod>
   </url><url>
-    <loc>http://hugo.markdownsite.net/categories/</loc>
+    <loc>https://hugo-example.markdownsite.net/categories/</loc>
   </url><url>
-    <loc>http://hugo.markdownsite.net/tags/</loc>
+    <loc>https://hugo-example.markdownsite.net/tags/</loc>
   </url>
 </urlset>
